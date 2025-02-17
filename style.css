@@ -1,6 +1,8 @@
 body {
     background-color: burlywood;
     text-align: center;
+    border-color: brown;
+    border-style: dashed;
 }
 
 #ima2 {
