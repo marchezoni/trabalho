@@ -1,10 +1,26 @@
 body {
     background-color: burlywood;
     text-align: center;
-    border-color: brown;
+    border-color: white;
     border-style: dashed;
 }
 
 #ima2 {
     width: 39%;
+}
+
+#tittle {
+    color: brown;
+}
+
+#violao1 {
+    color: antiquewhite;
+}
+
+#violao2 {
+    color: rgb(149, 78, 22);
+}
+
+#violao3 {
+    color:rgb(184, 134, 11);
 }
