@@ -36,3 +36,14 @@ body {
 #violao3 {
     color:rgb(184, 134, 11);
 }
+
+#fabrica {
+    border-color: red;
+    border-style: ridge;
+}
+
+#guitarras {
+    border-color: purple;
+    border-style: ridge;
+    width: 55%;
+}
