@@ -1,12 +1,24 @@
 body {
-    background-color: burlywood;
+    background-image: linear-gradient(rgb(247, 167, 76), rgb(255, 208, 0));
     text-align: center;
-    border-color: white;
+    border-color: black;
     border-style: dashed;
+}
+
+#ima1 {
+    border-color: brown;
+    border-style: ridge;
 }
 
 #ima2 {
     width: 39%;
+    border-color: black;
+    border-style: ridge;
+}
+
+#ima3 {
+    border-color: yellow;
+    border-style: ridge;
 }
 
 #tittle {
